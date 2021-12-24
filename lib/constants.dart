@@ -1,0 +1,8 @@
+String BaseUrl = "https://org2c9fce96.api.crm4.dynamics.com/api/data/v9.2";
+String serviceUrl =
+    "https://login.microsoftonline.com/0fcd2810-9edc-41c4-be92-6c6d78468e7a/oauth2/v2.0/authorize?resource=https://org2c9fce96.api.crm4.dynamics.com&response_type=token&client_id=551ecb06-db36-40af-aa38-a8d11bea4747&redirect_uri=https%3A%2F%2Fmohammad_app_redirect_url.com";
+
+const String clientId = "551ecb06-db36-40af-aa38-a8d11bea4747";
+const String appSecret = 'wW~7Q~yDa6WaMkZh5I9icnbx4vJJh2Ea~bKrZ';
+const String tenant = "0fcd2810-9edc-41c4-be92-6c6d78468e7a";
+const String redirectUri = "https://mohammad_app_redirect_url.com";
